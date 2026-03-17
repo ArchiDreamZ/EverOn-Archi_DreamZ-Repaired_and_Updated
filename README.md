@@ -1,14 +1,32 @@
-# EverOn 材质包，魔戒风格GUI与HUD材质包
-该资源包重新绘制了MC的选项菜单、按钮、GUI 和 HUD，以适应魔戒的风格，由 [Idhreneth314](https://www.curseforge.com/minecraft/texture-packs/ever-on-the-lord-of-the-rings-texture-pack) 绘制。
+# EverOn 资源包——全版本通用的指环王主题GUI材质包
+该资源包为MC的所有UI界面全都重绘为了魔戒红皮书的风格，并同时包含许多模组的UI，由 [Idhreneth314](https://www.curseforge.com/minecraft/texture-packs/ever-on-the-lord-of-the-rings-texture-pack) 绘制。
 
 该风格基于《指环王》红皮书的主题，并将所有按钮纹理替换为魔戒模组菜单按钮的纹理。此资源包不需要魔戒模组，但它被设计为与其一起使用。
 
+### 相关链接：
+**CurseForge**：[Ever On - The Lord of the Rings Texture Pack](https://www.curseforge.com/minecraft/texture-packs/ever-on-the-lord-of-the-rings-texture-pack)
+
+若想要浏览预览图，请前往CurseForge页面。
+
+## 版本特别说明
+该资源包分为两个差别巨大的版本，分别是：
+- 2020年的旧版，256x256分辨率（MC原版UI分辨率），基于传承版贴图，对比新版略显粗糙，是用魔戒模组的材质修改出来的；
+- 2025年的新版，512x512分辨率，基于复兴版贴图，并重绘了许多细节，高清但符合MC美学，且有着无数细腻的小细节，更加有了魔戒与中世纪风格，是当之无愧的像素艺术。
+
+彼梦对这两个版本都有过改进、修复、拓展，以下为修改的详情：
+
 ## 彼梦修复与更新
+### 2025年的新版：
+经过作者的授权，我已经成为EverOn材质包官方维护者，并在CurseForge发布新版本。
+- 为垃圾槽添加该风格的贴图
+- 为NEI非官方版的配方查询界面的顶部标签添加该风格的贴图
+
+### 2020年的旧版：
 该资源包随着魔戒36更新，出现了一些bug，我已经修复了已知的问题，并进行了更多拓展与改善：
 - 添加NEI界面的材质支持，为NEI界面绘制该风格的材质
 - 修复铁匠锻造页面的GUI错位，原因是魔戒36新增铭刻功能改变了GUI分布
 - 修复坐骑UI不显示鞍的槽位的问题
-- 物品栏UI修改，改为更符合红皮书风格的样式
+- 修改物品快捷栏UI，使用权游mod中的快捷栏贴图，改为更符合红皮书风格的样式
 - 将按键按键四角的花纹调淡，防止小型按键因花纹看不清图标
 - 为“自定义光标”模组添加了红皮书风格的光标
 - 添加一个默认的史蒂夫皮肤，找了个中世纪年轻王子的皮肤
